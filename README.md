@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
 --->
-
+ <div style="text-align: center">  <img src="https://github-readme-stats.vercel.app/api?username=GouravSolanki-Dev&count_private=true&show_icons=true&theme=prussian" width="400"><br />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouravSolanki-Dev&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></div>...badges...
 <div align="center">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=GouravSolanki-Dev&theme=dracula"/>
 </div>
