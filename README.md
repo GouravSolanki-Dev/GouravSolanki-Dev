@@ -32,7 +32,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/iamKumargaurav007/github-readme-stats" target="_blank">--->
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GouravSolanki-Dev&repo=github-readme-stats&theme=dracula" /><br></br>
 
-
+<a href="https://github.com/GouravSolanki-Dev/GouravSolanki-Dev/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouravSolanki-Dev&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 
 🎯 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
