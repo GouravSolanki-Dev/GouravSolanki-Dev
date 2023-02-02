@@ -17,7 +17,7 @@
 - 💻 Working at  
                                                                                                                                                <details>
   <summary>📈 My GitHub Stats</summary>
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=gourav0497&theme=chartreuse-dark&show_icons=true">
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=GouravSolanki-Dev&theme=chartreuse-dark&show_icons=true">
 </details></br>
 <!---  📫 How to reach me --->
 
