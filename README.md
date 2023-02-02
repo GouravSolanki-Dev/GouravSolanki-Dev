@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gauravsolanki812@gmail.com)](mailto:gauravsolanki812@gmail.com)    
 
 
-<img src="https://media3.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47ro2mp3zk76zant7bpkimkw62j4uh8mrauj80n8ik&rid=giphy.gif&ct=g" title="👋 Hi there! This is KUMAR GAURAV"/>
+<img src="https://media3.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47ro2mp3zk76zant7bpkimkw62j4uh8mrauj80n8ik&rid=giphy.gif&ct=g" title="👋 Hi there! This is GOURAV KUMAR"/>
 
 
 - 👋 Hi, This is **GOURAV KUMAR**
@@ -37,9 +37,9 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 
-🎯 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
+<!---🎯 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
   - 𝙶𝚘 𝚜𝚔𝚢𝚍𝚒𝚟𝚒𝚗𝚐!
-  - Mountain Trekking
+  - Mountain Trekking--->
 <details>
   <summary>
 ⚡ 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴</summary>
@@ -50,5 +50,4 @@ You can click the Preview link to take a look at your changes.
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
 --->
- 
 </details>
