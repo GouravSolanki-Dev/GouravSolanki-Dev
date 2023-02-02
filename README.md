@@ -4,7 +4,7 @@
 </p>
 
 <!---![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)--->
-[𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/GouravSolanki-Dev/𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝙱𝚊𝚍𝚐𝚎𝚁𝚎𝚕𝚘𝚊𝚍𝚎𝚍](https://github.com/GouravSolanki-Dev/VisitorBadgeReloaded)   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gauravsolanki812@gmail.com)](mailto:gauravsolanki812@gmail.com)    
+[visitor badge](https://github.com/GouravSolanki-Dev/VisitorBadgeReloaded)   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gauravsolanki812@gmail.com)](mailto:gauravsolanki812@gmail.com)    
 
 
 <img src="https://media3.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47ro2mp3zk76zant7bpkimkw62j4uh8mrauj80n8ik&rid=giphy.gif&ct=g" title="👋 Hi there! This is KUMAR GAURAV"/>
