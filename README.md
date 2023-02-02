@@ -4,7 +4,7 @@
 </p>
 
 <!---![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)--->
-![Profile visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=GouravSolanki-Dev)    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gauravsolanki812@gmail.com)](mailto:gauravsolanki812@gmail.com)    
+[𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/GouravSolanki-Dev/𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝙱𝚊𝚍𝚐𝚎𝚁𝚎𝚕𝚘𝚊𝚍𝚎𝚍](https://github.com/GouravSolanki-Dev/VisitorBadgeReloaded)   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gauravsolanki812@gmail.com)](mailto:gauravsolanki812@gmail.com)    
 
 
 <img src="https://media3.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47ro2mp3zk76zant7bpkimkw62j4uh8mrauj80n8ik&rid=giphy.gif&ct=g" title="👋 Hi there! This is KUMAR GAURAV"/>
@@ -50,18 +50,5 @@ You can click the Preview link to take a look at your changes.
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
 --->
- <div style="text-align: center">  <img src="https://github-readme-stats.vercel.app/api?username=GouravSolanki-Dev&count_private=true&show_icons=true&theme=prussian" width="400"><br />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouravSolanki-Dev&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></div>...badges...
-<div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=GouravSolanki-Dev&theme=dracula"/>
-</div>
-
-  <div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=GouravSolanki-Dev&theme=github"/>
-</div>
-
-<div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/GouravSolanki-Dev?template=classic&config.timezone=Asia%2FShanghai"/>
-  
-</div>
-
+ 
 </details>
