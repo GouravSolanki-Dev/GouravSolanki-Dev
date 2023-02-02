@@ -14,7 +14,7 @@
 - 👀 I’m interested in Learning and Exploring 
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on Tableau,PYTHON
-- 💻 Working at  [url=https://seekvectorlogo.net/cognizant-vector-logo-svg/][img]https://seekvectorlogo.net/wp-content/uploads/2019/01/cognizant-vector-logo.png[/img][/url]
+- 💻 Working at  https://www.cognizant.com/content/dam/connectedassets/cognizant-global-marketing/marketing-channels/cognizant-dotcom/en_us/logos/cognizant/COG-Logo-2022.svg
                                                                                                                                                <details>
   <summary>📈 My GitHub Stats</summary>
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=GouravSolanki-Dev&theme=chartreuse-dark&show_icons=true">
