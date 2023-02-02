@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 <!---[![Kumar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamKumargaurav007)](https://github.com/iamKumargaurav007/github-readme-stats)--->
 <!---[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamKumargaurav007&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/iamKumargaurav007/github-readme-stats)<br></br>
 <a href="https://github.com/iamKumargaurav007/github-readme-stats" target="_blank">--->
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gourav0497&repo=github-readme-stats&theme=dracula" /><br></br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GouravSolanki-Dev&repo=github-readme-stats&theme=dracula" /><br></br>
 
 
 
@@ -50,15 +50,15 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=iamKumargaurav007&theme=dracula"/>
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=GouravSolanki-Dev&theme=dracula"/>
 </div>
 
   <div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=iamKumargaurav007&theme=github"/>
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=GouravSolanki-Dev&theme=github"/>
 </div>
 
 <div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/iamKumargaurav007?template=classic&config.timezone=Asia%2FShanghai"/>
+    <img height="300px" src="https://metrics.lecoq.io/GouravSolanki-Dev?template=classic&config.timezone=Asia%2FShanghai"/>
   
 </div>
 
