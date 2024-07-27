@@ -1,6 +1,6 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Tableau%20Developer;Experienced%20in%20Dashboard%20Designing;2+%2B%20years%20of%20Experience%20in%20Tableau%20Dashboard%20Creation,%20;And%20usage%20of%20various%20charts%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=740&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Tableau%20Developer;Experienced%20in%20Dashboard%20Designing;4%2B%20years%20of%20Experience%20in%20Tableau%20Dashboard%20Creation,%20;And%20usage%20of%20various%20charts%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=740&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <!---![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)--->
